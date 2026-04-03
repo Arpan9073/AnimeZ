@@ -1,0 +1,21 @@
+/* Page background */
+.home {
+  background-color: #0f0f0f;
+  min-height: 100vh;
+  color: white;
+}
+
+/* Container for cards */
+.anime-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Optional heading */
+.home-title {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+}

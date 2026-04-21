@@ -60,3 +60,17 @@
 .login-btn:hover {
   background-color: #e60000;
 }
+
+.signin-btn {
+  padding: 6px 12px;
+  background-color: #ff5016;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.signin-btn:hover {
+  background-color: #f94747;
+}

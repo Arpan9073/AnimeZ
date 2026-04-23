@@ -1,1 +1,1 @@
-# anime-review-app
+# AnimeZ
